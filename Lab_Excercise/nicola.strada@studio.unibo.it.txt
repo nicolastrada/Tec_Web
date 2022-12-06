@@ -1,0 +1,27 @@
+I tre standard alla base del Web.
+Di seguito troviamo elencati e approfonditi i tre principali standard alla base del Web, HTTP, URI, HTML.
+
+ --> HTTP
+ Il primo ad essere preso in analisi è HTTP: HyperText Transfer Protocol.
+ HTTP è un protocollo a livello applicativo, utilizzato come principale standard per la trasmissione di dati sul web. Si presenta con un'architettura Client-Server, dove
+ generalmente il Server rimane in ascolto di eventuali richieste da parte del Client, viene impiegato come standard il protocollo TCP (A livello Transport), che prevede le richieste del Client sulla porta 80.
+ Le specifiche del protocollo HTTP sono definite e gestite dal World Wide Web Consortium (W3C).
+HTTP si presenta come uno standard ideale per il World Wide Web, dove per sua natura, spesso le pagine contengono collegamenti tramite link ad altre pagine, ospitate su altri Server, e in questo modo
+vengono limitate il numero di connesioni attive a quelle necessarie.
+Infine un'ultima menzione necessaria ad HTTPS, ovvero lo standard HTTP ma con le comunicazioni criptate, rendendo più sicura la conversazione tra Client-Server.
+
+--> URI
+Procediamo con il secondo Standard, URI: Uniform Resource Identifier.
+URI si compone come una sequenza di caratteri tale da definire un codice univoco, ed identificativo, per una risorsa. Alcuni esempi sono: Indirizzi Web o ISBN di libri.
+Possiamo poi suddividere l'URI in URL, come identificatori di posizioni, o URN come identificatori di nomi.
+Tipico degli URL sono i link a pagine web, che suggeriscono la posizione della pagina 'home', per esempio, all'indirizzo host, www.esempio.it.
+Mentre gli URN identificano le risorse attraverso dei nomi, in un particolare spazio di nomi. Un URN deve restare univoco anche qualora la risorsa scompaia. Per esempio di seguito troviamo un URN 
+che identifica il particolare ISBN di un libro (nel namespace degli ISBN): 978-81-7525-766-5.
+
+--> HTML
+L'ultimo standard che approfondiamo è il linguaggio HTML: 'HyperText Markup Language'.
+HTML è un linguaggio di markup, impiegato per l'impaginazione e formattazioni di documenti ipertestuali nel Web. Utilizzato per scindere la struttura logica della pagina Web, e la sua 
+rappresentazione, gestita tramite gli stili CSS.
+HTML è un linguaggio pubblico regolamentato dal World Wide Web Consortium (W3C), artefici di HTML5, spinti dalla necessità di fornire direttamente funzionalità che in precedenza potevano essere
+fruite esclusivamente tramite estensioni esterne ai browser (Es. Adobe Flash). Inoltre anche per garantire più compatibilità tra i diversi browser, indipendentemente dalla piattaforma utilizzata,
+e infine, principalmente anche per l'espansione dei dispositivi mobili.
