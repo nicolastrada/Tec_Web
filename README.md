@@ -1,2 +1,2 @@
-# Tec_Web
-Exercises of Tec_Web. University Course
+# Tech_Web
+Exercises of Tech_Web. University Course
